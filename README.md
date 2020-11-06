@@ -13,9 +13,13 @@ The purpose of this analysis is to investigate the standardized test scores of t
 
 * We can see that even after the scores have been adjusted that the math and reading scores are still very high. Thomas High School is in the top 5 schools for reading and math scores and has the second highest overall percentage of students passing at 90.63%. 
 ## Overall School District Summary
-Here we can see the final results of all the schools in the data set. We see that the spending did seem to have an effect, however the larger variable that seemed to affect the students' passing percentages was the type of school. The charter schools did disproportionately better than the district schools. We also observe that the district schools were generally larger which would also contribute to having lower averages. One interesting point to look at is that while the average math score for the district schools was 77 the passing rate was very low at 67%. If we go back to the school size, we see this number could be a direct result of having more students, and thus fewer passing.
+Here we can see the final results of all the schools in the data set. We see that the spending did seem to have an effect, however the larger variable that seemed to affect the students' passing percentages was the type of school. The charter schools did disproportionately better than the district schools. We also observe that the district schools were generally larger which would also contribute to having lower averages. One interesting point to look at is that while the average math score for the district schools was 77 the passing rate was very low at 67%. If we go back to the school size, we see this number could be a direct result of having more students, and thus fewer passing. Overall we see the students at Thomas High School are doing well in their standardized testing scores.
 
 <img width="722" alt="Screen Shot 2020-11-05 at 7 47 15 PM" src="https://user-images.githubusercontent.com/71112085/98323945-df353780-1f9f-11eb-9756-7db520c610f5.png">
+
+<img width="990" alt="Screen Shot 2020-11-05 at 7 26 55 PM" src="https://user-images.githubusercontent.com/71112085/98324946-7dc29800-1fa2-11eb-9cc8-7281351aa1d2.png">
+
+
 
 
 
