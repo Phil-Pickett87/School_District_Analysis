@@ -12,4 +12,5 @@ The purpose of this analysis is to investigate the standardized test scores of t
 
 
 * We can see that even after the scores have been adjusted that the math and reading scores are still very high. Thomas High School is in the top 5 schools for reading and math scores and has the second highest overall percenatage of students passing at 90.63%. 
-*
+* **Overall School District Summary**
+Here we can see the final results of all the schools in the data set. We see that the spending did seem to have an effect, however the larger variable that seeemed to effect the students' passing percentages was the type of school. The charter schools did disproportionately better than the district schools. 
